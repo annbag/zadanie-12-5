@@ -1,0 +1,25 @@
+body {
+	background-color: #3399ff;
+}
+h1, h2, h3 {
+	color: #fff;
+	text-align: center;
+
+}
+
+button, a {
+	border: 1px solid #fff;
+	background-color: #3399ff;
+	color: #fff;
+	padding: 10px 50px;
+	cursor: pointer;
+	text-decoration: none;
+
+}
+button:hover {
+	background-color: #66b3ff;
+}
+a:hover {
+	background-color: #66b3ff;
+}
+
